@@ -38,7 +38,7 @@ export class HomePage {
 `
 })
 export class ModalContentPage {
-  character;
+  type;
 
   constructor(
     public platform: Platform,
